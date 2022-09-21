@@ -20,3 +20,11 @@ img {
 
 }
 
+.corpodapagina{
+
+display: block;
+flex-direction: row;
+color: crimson;
+
+
+}
